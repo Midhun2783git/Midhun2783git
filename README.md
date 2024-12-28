@@ -1,4 +1,3 @@
-
 ### Hi there 👋, I'm [Your Name]!
 
 Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
@@ -22,6 +21,6 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/yourprofile)
-[![Personal Website](https://img.shields.io/badge/-Website-blue)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Personal Website](https://img.shields.io/badge/Website-000000?logo=web&logoColor=white)](https://yourwebsite.com)
