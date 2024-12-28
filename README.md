@@ -45,8 +45,8 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
 
 ### Connect with me:
 
-[![LinkedIn](https://yourusername.github.io/neon-buttons/index.html)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://yourusername.github.io/neon-buttons/index.html)](https://midhun-saminathan.vercel.app/)
+[![LinkedIn](https://github.com/Midhun2783git/Midhun2783git/blob/main/index.html)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://github.com/Midhun2783git/Midhun2783git/blob/main/index.html)](https://midhun-saminathan.vercel.app/)
 
 ### Programmer Pics & Animations
 
