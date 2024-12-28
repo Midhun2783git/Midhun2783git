@@ -25,14 +25,3 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/yourprofile)
 [![Personal Website](https://img.shields.io/badge/-Website-blue)](https://yourwebsite.com)
-
-### Some of my projects:
-
-- [Project 1](https://github.com/Midhun2783git/project1) - A brief description of project 1.
-- [Project 2](https://github.com/Midhun2783git/project2) - A brief description of project 2.
-- [Project 3](https://github.com/Midhun2783git/project3) - A brief description of project 3.
-
-### Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
