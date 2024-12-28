@@ -1,21 +1,11 @@
-
-
 <p><img alt="GIF" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" /></p>
-                                             ### Hi there 👋, I'm MIDHUN!
+
+### Hi there 👋, I'm MIDHUN!
 
 Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
 
 - 📫 How to reach me: midhunsaminathan@gmail.com.
 - 😄 Pronouns: he/him.
-
-
-### My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhun2783git&show_icons=true&theme=radical)
-
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun2783git&layout=compact&theme=radical)
 
 ### Languages & Tools
 
