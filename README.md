@@ -1,8 +1,8 @@
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Midhun Samminathan!
 
 Welcome to my GitHub profile! I'm a Computer Science Student passionate about Machine Learning aand Robotics.
 
-- 📫 How to reach me: midhunsaminathan@gamil.com.
+- 📫 How to reach me: midhunsaminathan@gmail.com.
 - 😄 Pronouns: he/him.
 
 <img alt="GIF" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" /></p>
