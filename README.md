@@ -1,15 +1,9 @@
 ### Hi there 👋, I'm [Your Name]!
 
-Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
+Welcome to my GitHub profile! I'm a Computer Science Student passionate about Machine Learning aand Robotics.
 
-- 🔭 I’m currently working on [Project/Company].
-- 🌱 I’m currently learning [Technology/Skill].
-- 👯 I’m looking to collaborate on [Projects/Technologies].
-- 🤔 I’m looking for help with [Specific Help Needed].
-- 💬 Ask me about [Topics/Technologies].
-- 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [A fun fact about you].
+- 📫 How to reach me: midhunsaminathan@gamil.com.
+- 😄 Pronouns: he/him.
 
 ### My GitHub Stats
 
@@ -56,3 +50,13 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
 <a href="https://midhun-saminathan.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white" alt="Portfolio" />
 </a>
+
+### Programmer Pics & Animations
+
+<p align="center">
+  <!-- Example of an animated GIF -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="300" />
+  
+  <!-- Example of a static image -->
+  <img src="https://www.example.com/path/to/your/image.jpg" alt="Programmer Image" width="300" />
+</p>
