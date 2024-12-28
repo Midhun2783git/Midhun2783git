@@ -45,15 +45,6 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
 
 ### Connect with me:
 
-[![LinkedIn](https://github.com/Midhun2783git/Midhun2783git/blob/main/index.html)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://github.com/Midhun2783git/Midhun2783git/blob/main/index.html)](https://midhun-saminathan.vercel.app/)
+[![LinkedIn](https://midhun2783git.github.io/Midhun2783git/)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://midhun2783git.github.io/Midhun2783git/)](https://midhun-saminathan.vercel.app/)
 
-### Programmer Pics & Animations
-
-<p align="center">
-  <!-- Example of an animated GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="300" />
-  
-  <!-- Example of a static image -->
-  <img src="https://www.example.com/path/to/your/image.jpg" alt="Programmer Image" width="300" />
-</p>
