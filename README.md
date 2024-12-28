@@ -51,5 +51,5 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Personal Website](https://img.shields.io/badge/Website-000000?logo=web&logoColor=white)]
-(https://midhun-saminathan.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Website-000000?logo=web&logoColor=white)
+(https://midhun-saminathan.vercel.app/)]
