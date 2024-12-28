@@ -46,14 +46,10 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" />
-  </a>
 </p>
 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Personal Website](https://img.shields.io/badge/Website-000000?logo=web&logoColor=white)](https://yourwebsite.com)
+[![Personal Website](https://img.shields.io/badge/Website-000000?logo=web&logoColor=white)]
+(https://midhun-saminathan.vercel.app/)
