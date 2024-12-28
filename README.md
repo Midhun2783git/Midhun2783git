@@ -1,67 +1,75 @@
 ### Hi there 👋, I'm MIDHUN!
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; height: 300px;">
-  <div style="flex: 1;">
-    Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
+![Typing Animation](https://github.com/yourusername/text-animation/raw/main/animation-preview.gif)
 
-    - 🔭 I’m currently working on [Project/Company].
-    - 🌱 I’m currently learning [Technology/Skill].
-    - 👯 I’m looking to collaborate on [Projects/Technologies].
-    - 🤔 I’m looking for help with [Specific Help Needed].
-    - 💬 Ask me about [Topics/Technologies].
-    - 📫 How to reach me: [Your Contact Information].
-    - 😄 Pronouns: [Your Pronouns].
-    - ⚡ Fun fact: [A fun fact about you].
+Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
 
-    ### My GitHub Stats
+- 🔭 I’m currently working on [Project/Company].
+- 🌱 I’m currently learning [Technology/Skill].
+- 👯 I’m looking to collaborate on [Projects/Technologies].
+- 🤔 I’m looking for help with [Specific Help Needed].
+- 💬 Ask me about [Topics/Technologies].
+- 📫 How to reach me: [Your Contact Information].
+- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [A fun fact about you].
 
-    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhun2783git&show_icons=true&theme=radical)
+### My GitHub Stats
 
-    ### Top Languages
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhun2783git&show_icons=true&theme=radical)
 
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun2783git&layout=compact&theme=radical)
+### Top Languages
 
-    ### Languages & Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun2783git&layout=compact&theme=radical)
 
-    <p align="left">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      </a>
-      <a href="https://www.java.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-      </a>
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-    </p>
+### Languages & Tools
 
-    ### Connect with me:
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</p>
 
-    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://midhun-saminathan.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white" alt="Portfolio" />
-    </a>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/yourusername/yourrepository/raw/main/yourgif.gif" alt="Typing Animation" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://midhun-saminathan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white" alt="Portfolio" />
+</a>
+
+### Programmer Pics & Animations
+
+<p align="center">
+  <!-- Example of an animated GIF -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="300" />
+  
+  <!-- Example of a static image -->
+  <img src="https://www.example.com/path/to/your/image.jpg" alt="Programmer Image" width="300" />
+</p>
+
+### Check out my animated introduction
+[![My Animated Introduction](https://github.com/yourusername/text-animation/raw/main/animation-preview.gif)](https://yourusername.github.io/text-animation/)
