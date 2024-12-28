@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
 - 📫 How to reach me: midhunsaminathan@gamil.com.
 - 😄 Pronouns: he/him.
 
+<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanikakash.hashnode.dev%2Fabout&psig=AOvVaw1y2q4O9jXQwzQQ1d6R0B5k&ust=1735469791521000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICV-PumyooDFQAAAAAdAAAAABAQ)" alt="Coding Animation" width="300" />
 ### My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhun2783git&show_icons=true&theme=radical)
