@@ -45,6 +45,10 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
 
 ### Connect with me:
 
-[![LinkedIn](https://midhun2783git.github.io/Midhun2783git/)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://midhun2783git.github.io/Midhun2783git/)](https://midhun-saminathan.vercel.app/)
+<a href="https://www.linkedin.com/in/midhun-saminathan-ai" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
+<a href="https://midhun-saminathan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white" alt="Portfolio" />
+</a>
