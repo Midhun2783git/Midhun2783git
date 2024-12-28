@@ -1,6 +1,7 @@
-### Hi there 👋, I'm MIDHUN!
+
 
 <p><img alt="GIF" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" /></p>
+                                             ### Hi there 👋, I'm MIDHUN!
 
 Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
 
