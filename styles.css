@@ -10,12 +10,27 @@ body {
 
 .container {
     text-align: center;
-    color: white;
 }
 
-.ml12 {
-    font-weight: 900;
-    font-size: 3.5em;
-    letter-spacing: 0.5em;
-    opacity: 0;
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    margin: 10px;
+}
+
+.neon {
+    background: #ff6ec7;
+    box-shadow: 0 0 10px #ff6ec7, 0 0 20px #ff6ec7, 0 0 30px #ff6ec7, 0 0 40px #ff6ec7;
+    border: none;
+}
+
+.button:hover {
+    box-shadow: 0 0 20px #ff6ec7, 0 0 30px #ff6ec7, 0 0 40px #ff6ec7, 0 0 50px #ff6ec7;
 }
