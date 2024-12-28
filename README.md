@@ -1,19 +1,38 @@
-## Hi there 👋
-## i'm Midhun Saminathan
 
-https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966
+### Hi there 👋, I'm [Your Name]!
 
-<!--
-**Midhun2783git/Midhun2783git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Project/Company].
+- 🌱 I’m currently learning [Technology/Skill].
+- 👯 I’m looking to collaborate on [Projects/Technologies].
+- 🤔 I’m looking for help with [Specific Help Needed].
+- 💬 Ask me about [Topics/Technologies].
+- 📫 How to reach me: [Your Contact Information].
+- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [A fun fact about you].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Midhun2783git&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun2783git&layout=compact&theme=radical)
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/yourprofile)
+[![Personal Website](https://img.shields.io/badge/-Website-blue)](https://yourwebsite.com)
+
+### Some of my projects:
+
+- [Project 1](https://github.com/Midhun2783git/project1) - A brief description of project 1.
+- [Project 2](https://github.com/Midhun2783git/project2) - A brief description of project 2.
+- [Project 3](https://github.com/Midhun2783git/project3) - A brief description of project 3.
+
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
