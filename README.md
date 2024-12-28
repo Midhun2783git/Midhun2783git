@@ -1,17 +1,12 @@
 ### Hi there 👋, I'm MIDHUN!
 
-![Typing Animation](https://github.com/yourusername/text-animation/raw/main/animation-preview.gif)
+<p><img alt="GIF" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" /></p>
 
 Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [Your Interests/Fields].
 
-- 🔭 I’m currently working on [Project/Company].
-- 🌱 I’m currently learning [Technology/Skill].
-- 👯 I’m looking to collaborate on [Projects/Technologies].
-- 🤔 I’m looking for help with [Specific Help Needed].
-- 💬 Ask me about [Topics/Technologies].
-- 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [A fun fact about you].
+- 📫 How to reach me: midhunsaminathan@gmail.com.
+- 😄 Pronouns: he/him.
+
 
 ### My GitHub Stats
 
@@ -60,16 +55,3 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
 <a href="https://midhun-saminathan.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white" alt="Portfolio" />
 </a>
-
-### Programmer Pics & Animations
-
-<p align="center">
-  <!-- Example of an animated GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="300" />
-  
-  <!-- Example of a static image -->
-  <img src="https://www.example.com/path/to/your/image.jpg" alt="Programmer Image" width="300" />
-</p>
-
-### Check out my animated introduction
-[![My Animated Introduction](https://github.com/yourusername/text-animation/raw/main/animation-preview.gif)](https://yourusername.github.io/text-animation/)
