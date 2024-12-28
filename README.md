@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
 ### Languages & Tools
 
 <p align="left">
-
   <a href="https://www.python.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
@@ -57,5 +56,5 @@ Welcome to my GitHub profile! I'm a [Your Role/Profession] passionate about [You
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://midhun-saminathan.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?logo=web&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=portfolio&logoColor=white" alt="Portfolio" />
 </a>
