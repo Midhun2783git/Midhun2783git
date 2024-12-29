@@ -23,9 +23,6 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
   <a href="https://www.java.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   </a>
@@ -40,9 +37,11 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-      <a href="https://www.tensorflow.org/" target="_blank">
+ - **Framework:**
+  <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   </a>
+ - **Tools:**
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" />
   </a>
