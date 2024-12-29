@@ -37,10 +37,14 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</p>
+<p align="left">
  - **Framework:**
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   </a>
+</p>
+<p align="left">
  - **Tools:**
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" />
