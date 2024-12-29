@@ -7,8 +7,9 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
 - 📫 How to reach me: midhunsaminathan@gmail.com.
 - 😄 Pronouns: he/him.
 
-### Languages & Tools
+### Technologies & Tools
 
+- **Languages:** 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
