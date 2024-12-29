@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
   </a>
 </p>
 
-### Connect with me:
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/midhun-saminathan-ai" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
