@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
 
 ### Technologies & Tools
 
+## Technologies & Tools
+- **Languages:** [Your Preferred Languages, e.g., JavaScript, Python, etc.]
+- **Frameworks:** [Your Preferred Frameworks, e.g., React, Django, etc.]
+- **Tools:** [Your Preferred Tools, e.g., Git, Docker, etc.]
+
+
 - **Languages:** 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
