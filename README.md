@@ -40,6 +40,18 @@ Welcome to my GitHub profile! I'm a Computer Science Student passionate about Ma
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+      <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" />
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  </a>
 </p>
 
 ### Connect with me:
